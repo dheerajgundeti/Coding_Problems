@@ -1,3 +1,4 @@
+//printing the integer which appeared once in given integers
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
