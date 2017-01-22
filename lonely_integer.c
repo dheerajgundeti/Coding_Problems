@@ -4,26 +4,20 @@
 #include <math.h>
 #include <stdlib.h>
 #include <assert.h>
-int lonelyinteger(int a_size, int* a) {
-return 0;
-
-}
-int main() {
-    int res;
-    
-    int _a_size, _a_i;
-    scanf("%d", &_a_size);
-    int _a[_a_size];
-    for(_a_i = 0; _a_i < _a_size; _a_i++) { 
-        int _a_item;
-        scanf("%d", &_a_item);
-        
-        _a[_a_i] = _a_item;
+int main()
+{
+    int n,res=0;
+    scanf("%d",&n);
+    int a[n];
+    for(int i=0;i<n;i++){
+        scanf("%d",&a[i]);
     }
-    
-    res = lonelyinteger(_a_size, _a);
+    for(int i=0;i<n;i++){
+         res=res^a[i];
+    }  
     printf("%d", res);
     
     return 0;
 }
+
 
