@@ -4,9 +4,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <assert.h>
-/*
- * Complete the function below.
- */
+
 int maxXor(int l, int r) {
         int res=0;
         for(int i=l;i<=r;i++)
