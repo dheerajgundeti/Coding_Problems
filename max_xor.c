@@ -1,4 +1,4 @@
-//Given two integers,l and r, find the maximal value of a xor b,where l<=a<=b<=r 
+//Given two integers, l and r, find the maximal value of a xor b, where l<=a<=b<=r
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -28,3 +28,4 @@ int main() {
     
     return 0;
 }
+
