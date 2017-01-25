@@ -1,3 +1,8 @@
+//problem from hackerrank/algorithms/implementation
+/*Consider a word consisting of lowercase English alphabetic letters, where each letter is 1mm wide.
+  Given the height of each letter in millimeters  find the total area that will be highlighted by
+  blue rectangle in mm2 when the given word is selected in our new PDF viewer.
+*/
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
