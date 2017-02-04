@@ -1,3 +1,4 @@
+//problem from hackerrank/algorithms/implementation
 /* Anna and Brian order n items at a restaurant, but Anna declines to eat any of the k th item (where 0<=k<=n ) due to an allergy.
  When the check comes, they decide to split the cost of all the items they shared; however, Brian may have forgotten 
 that they didn't split k th item and accidentally charged Anna for it.
