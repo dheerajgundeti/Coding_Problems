@@ -1,3 +1,4 @@
+//problem from hackerrank/algorithms/implementation
 /*You are given an array of n integers,a0,a1,a2,.....,an-1 , and a positive integer, k.
 print the number of (i,j) pairs where i<j  and ai + aj is evenly divisible by k .
 */
