@@ -1,7 +1,7 @@
 //hackerrank/algorithms/implementations
-/***********
+/**********
 author - Dheeraj Gundeti
-***********/
+**********/
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
